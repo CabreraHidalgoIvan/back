@@ -1,0 +1,81 @@
+/*
+* <a class="collapse-item" href="./admin/index.php?page=login">Login</a>
+* <a class="collapse-item" href="./admin/index.php?page=new">Register</a>
+*/
+@import "https://fonts.googleapis.com/css?family=Rubik+One";
+@import url('https://fonts.googleapis.com/css?family=Numans');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+html,body{
+    background-image: url('https://wallpaperaccess.com/full/1780776.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Caveat', cursive;
+}
+
+body {
+  font-family: 'Caveat', cursive;
+  color: #111;
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  align-content: center;
+  justify-content: center;
+  background-color: #ececec;
+}
+
+.container {
+  width: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  margin: 190px auto;
+  border: none;
+  padding: 20px 54px;
+  font-size: 36px;
+  position: relative;
+
+}
+.btn::before {
+  transition: all 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  content: "";
+  width: 50%;
+  height: 100%;
+  background: goldenrod;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.btn .btn-text {
+  color: goldenrod;
+  mix-blend-mode: difference;
+}
+.btn:hover::before {
+  background: #56120f;
+  width: 100%;
+}
+.btn.rounded {
+  border-radius: 50px;
+}
+.btn.rounded .text-green {
+  color: #00f0b5;
+  mix-blend-mode: difference;
+}
+.btn.rounded::before {
+  border-radius: 50px;
+  width: 25%;
+  background: #A2CD48;
+}
+.btn.rounded:hover::before {
+  background: #875094;
+  width: 100%;
+}
+
+a {
+  font-family: 'Caveat', cursive;
+
+  color: #111;
+}

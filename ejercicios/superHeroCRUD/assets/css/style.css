@@ -1,0 +1,98 @@
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+html,body{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/24/526/333/iron-man-marvel-comics-wallpaper-preview.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Caveat', cursive;
+}
+
+/* NAV */
+.colorNav {
+    background-color: steelblue;
+}
+
+
+/* FORM*/
+
+.form_login,
+.form_new {
+    background: #56120f;
+    padding: 30px;
+    border-radius: 10%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.container {
+    height: 100%;
+    align-content: center;
+}
+
+.card{
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: steelblue;
+}
+
+
+
+.card-header h3{
+    color: goldenrod;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+}
+
+
+.input-group-prepend span{
+    width: 50px;
+    background-color: goldenrod;
+    color: black;
+    border:0 !important;
+}
+
+
+
+.login_btn{
+    color: black;
+    background-color: goldenrod;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+.login_btn:hover{
+    color: black;
+    background-color: darkred;
+}
+
+.links{
+    color: black;
+}
+
+a{
+    color: goldenrod;
+    font-size: 1.2rem;
+    margin-left: 4px;
+}
+
+a:hover{
+    color: darkred;
+    font-size: 1.4rem;
+}
+
+.h1ListSH {
+    color: goldenrod;
+    text-align: center!important;
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 1.5rem;
+}
