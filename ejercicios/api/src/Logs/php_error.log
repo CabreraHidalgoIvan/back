@@ -1,0 +1,307 @@
+[20-Feb-2023 13:31:46 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 13:31:46 Europe/Berlin] PHP Warning:  Undefined array key "name" in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 67
+[20-Feb-2023 13:31:46 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 72 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(72): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(39): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 13:32:29 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 13:32:30 Europe/Berlin] PHP Warning:  Undefined array key "name" in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 67
+[20-Feb-2023 13:32:30 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 72 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(72): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(39): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 13:33:14 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 13:33:14 Europe/Berlin] PHP Warning:  Undefined array key "name" in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 68
+[20-Feb-2023 13:33:14 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 73 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(73): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 13:34:15 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 13:34:15 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 73 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(73): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 13:34:32 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 13:34:32 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 13:35:55 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 13:35:55 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 13:36:13 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 13:36:13 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 13:36:33 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 13:36:33 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 18:43:32 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 18:43:32 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 18:44:04 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 18:44:04 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 18:45:55 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 18:45:56 Europe/Berlin] La contraseña no coincide con el hash
+[20-Feb-2023 18:46:09 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 18:46:09 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 18:46:39 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 18:46:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 18:47:54 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 18:47:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 18:48:26 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 18:48:26 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(37): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 18:57:10 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 18:57:10 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(38): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 18:57:56 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 18:57:56 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(38): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 18:58:33 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 18:58:33 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Config\ResponseHttp::status200(): Argument #1 ($response) must be of type string, array given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 75 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php:12
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(75): App\Config\ResponseHttp::status200(Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(38): App\Models\UserModel::login()
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Config/ResponseHttp.php on line 12
+[20-Feb-2023 19:00:26 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:01:36 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:07:31 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:07:45 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:08:01 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:08:12 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:08:23 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:08:53 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:10:38 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:11:01 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:16:02 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:17:11 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:17:21 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:17:46 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:21:55 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:23:15 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:23:45 Europe/Berlin] PHP Warning:  Undefined array key "confirmPassword" in /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php on line 60
+[20-Feb-2023 19:23:59 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:23:59 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:23:59 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:24:52 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:25:21 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:25:55 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:25:55 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:25:55 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:26:28 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:26:46 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:27:01 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:27:21 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:27:43 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:28:06 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:28:40 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:28:45 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:29:11 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:29:22 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:31:23 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:34:12 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:34:12 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php on line 41 and at least 3 expected in /Applications/XAMPP/xamppfiles/docs/api/vendor/firebase/php-jwt/src/JWT.php:184
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php(41): Firebase\JWT\JWT::encode(Array, 'secrect_key')
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(65): App\Config\Security::createTokenJwt('secrect_key', Array)
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(38): App\Models\UserModel::login()
+#3 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#4 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/vendor/firebase/php-jwt/src/JWT.php on line 184
+[20-Feb-2023 19:35:06 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:35:06 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Firebase\JWT\JWT::sign(): Argument #3 ($alg) must be of type string, null given, called in /Applications/XAMPP/xamppfiles/docs/api/vendor/firebase/php-jwt/src/JWT.php on line 203 and defined in /Applications/XAMPP/xamppfiles/docs/api/vendor/firebase/php-jwt/src/JWT.php:221
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/vendor/firebase/php-jwt/src/JWT.php(203): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1Q...', 'secrect_key', NULL)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php(41): Firebase\JWT\JWT::encode(Array, 'secrect_key')
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php(65): App\Config\Security::createTokenJwt('secrect_key', Array)
+#3 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(38): App\Models\UserModel::login()
+#4 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php(13): App\Controllers\UserController->getLogin('auth/ivan@gmail...')
+#5 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/vendor/firebase/php-jwt/src/JWT.php on line 221
+[20-Feb-2023 19:36:19 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:36:43 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:39:24 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:40:17 Europe/Berlin] PHP Warning:  Array to string conversion in /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php on line 56
+[20-Feb-2023 19:40:17 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:42:13 Europe/Berlin] PHP Warning:  Array to string conversion in /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php on line 56
+[20-Feb-2023 19:42:13 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:42:56 Europe/Berlin] PHP Warning:  Array to string conversion in /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php on line 56
+[20-Feb-2023 19:42:56 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:50:59 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 19:51:44 Europe/Berlin] Token Invalid
+[20-Feb-2023 19:55:19 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:04:42 Europe/Berlin] PHP Warning:  Array to string conversion in /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php on line 47
+[20-Feb-2023 20:04:42 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:05:17 Europe/Berlin] PHP Warning:  Array to string conversion in /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php on line 47
+[20-Feb-2023 20:05:17 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 20:05:53 Europe/Berlin] PHP Warning:  Array to string conversion in /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php on line 47
+[20-Feb-2023 20:05:53 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:06:31 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:08:06 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:08:23 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:08:52 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:10:38 Europe/Berlin] PHP Warning:  Array to string conversion in /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php on line 54
+[20-Feb-2023 20:10:38 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:10:58 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:11:18 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:12:06 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:28:56 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:29:10 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 20:29:54 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:33:34 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 20:33:59 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:36:07 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:36:12 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 20:36:31 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:39:28 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:40:08 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 20:40:29 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:48:50 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 20:49:40 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:49:43 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:49:55 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:50:13 Europe/Berlin] Token Invalid
+[20-Feb-2023 20:52:03 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 20:52:46 Europe/Berlin] Token Invalid
+[20-Feb-2023 21:01:17 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 21:02:57 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 21:06:38 Europe/Berlin] PHP Warning:  Undefined array key 2 in /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php on line 13
+[20-Feb-2023 21:06:53 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 21:07:13 Europe/Berlin] PHP Warning:  Undefined array key 1 in /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php on line 54
+[20-Feb-2023 21:07:13 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Firebase\JWT\JWT::decode(): Argument #1 ($jwt) must be of type string, null given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php on line 54 and defined in /Applications/XAMPP/xamppfiles/docs/api/vendor/firebase/php-jwt/src/JWT.php:91
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php(54): Firebase\JWT\JWT::decode(NULL, 'secrect_key', Array)
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(47): App\Config\Security::validateTokenJwt(Array, 'secrect_key')
+#2 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/user.php(14): App\Controllers\UserController->getAll('user/')
+#3 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#4 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/vendor/firebase/php-jwt/src/JWT.php on line 91
+[20-Feb-2023 21:07:27 Europe/Berlin] Token Invalid
+[20-Feb-2023 21:07:29 Europe/Berlin] Token Invalid
+[20-Feb-2023 21:07:30 Europe/Berlin] Token Invalid
+[20-Feb-2023 21:07:41 Europe/Berlin] Token Invalid
+[20-Feb-2023 21:07:57 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 22:53:11 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 22:53:29 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 22:55:00 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:27:53 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:28:34 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:28:41 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:28:55 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:29:55 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:32:25 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:32:36 Europe/Berlin] PHP Warning:  Undefined array key 1 in /Applications/XAMPP/xamppfiles/docs/api/src/Routes/user.php on line 16
+[20-Feb-2023 23:33:49 Europe/Berlin] PHP Warning:  Undefined array key 1 in /Applications/XAMPP/xamppfiles/docs/api/src/Routes/user.php on line 16
+[20-Feb-2023 23:34:02 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:35:35 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:36:41 Europe/Berlin] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php on line 66
+[20-Feb-2023 23:36:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/docs/api/src/Config/Security.php on line 67
+[20-Feb-2023 23:36:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php on line 111
+[20-Feb-2023 23:36:41 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: App\Models\UserModel::validateUserPassword(): Argument #1 ($IDToken) must be of type string, null given, called in /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php on line 111 and defined in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php:45
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/docs/api/src/Controllers/UserController.php(111): App\Models\UserModel::validateUserPassword(NULL, '123456')
+#1 /Applications/XAMPP/xamppfiles/docs/api/src/Routes/user.php(20): App\Controllers\UserController->patchPassword('user/password/')
+#2 /Applications/XAMPP/xamppfiles/docs/api/public/index.php(22): require('/Applications/X...')
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/docs/api/src/Models/UserModel.php on line 45
+[20-Feb-2023 23:36:54 Europe/Berlin] PHP Warning:  Undefined array key 1 in /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php on line 13
+[20-Feb-2023 23:36:54 Europe/Berlin] PHP Warning:  Undefined array key 2 in /Applications/XAMPP/xamppfiles/docs/api/src/Routes/auth.php on line 13
+[20-Feb-2023 23:37:48 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:37:57 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:38:37 Europe/Berlin] Conexión exitosa
+[20-Feb-2023 23:39:44 Europe/Berlin] Conexión exitosa
